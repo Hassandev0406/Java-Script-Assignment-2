@@ -1,0 +1,20 @@
+.h1{text-align: center;  
+ font-family: 'poppins';
+ padding-top: 60px;
+}
+.div{height: 250px;
+width: 250px;
+background: #a5803b;
+margin-left: 40%;
+margin-top: 5%;
+border-radius: 50px;
+}
+
+#h2{text-align: center;  
+    font-family: 'poppins';
+    padding-top: 60px;
+font-size: 30px;
+padding-top: 90px;
+font-weight: bolder;}
+
+  
